@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="translate">Translate</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="quit">Exit</string>
+    <string name="pl">Please Enter a number</string>
+    <string name="eight">8</string>
+    <string name="ten">10</string>
+    <string name="sixteen">16</string>
+    <string name="binary">Binary Number</string>
+    <string name="aboutDaniel">About App</string>
+    <string name="Res">Result: </string>
+    <string name="aboutApp">DanielRY, 2022</string>
+    <string name="translateButton">Translate</string>
+</resources>
